@@ -1,4 +1,4 @@
-Titanic Dataset Analysis
+# Titanic Dataset Analysis
 
 This project analyzes the famous Titanic dataset to uncover trends and patterns using data visualization and pandas data manipulation. The analysis covers various aspects of the passengers, including their demographics, class distribution, and survival status.
 Requirements
